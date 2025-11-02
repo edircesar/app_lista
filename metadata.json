@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Itens",
+  "description": "Uma aplicação CRUD responsiva para cadastrar, pesquisar, editar e excluir nomes ou palavras com uma interface moderna e intuitiva.",
+  "requestFramePermissions": []
+}
